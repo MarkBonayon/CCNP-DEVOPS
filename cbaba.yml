@@ -1,8 +1,8 @@
 ---
 
- Monitor Number  = 21
- Camera6 Mac     = 001a.0709.c252
- Camera8 Mac     = 001a.0704.7f64
+# Monitor Number  = 21
+# Camera6 Mac     = 001a.0709.c252
+# Camera8 Mac     = 001a.0704.7f64
 
 - name: "Day 1 Config: Corebaba"
   hosts: cbaba
